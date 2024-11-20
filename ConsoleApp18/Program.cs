@@ -6,7 +6,7 @@ class MainClass
     static Type academyGroupType;
     static Assembly studentAssembly; 
     static Type studentType;        
-    static bool running = true;
+    static bool running = true; 
 
     public static void Main()
     {
